@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1647884580 source:c:\users\angel\documents\university\programming\c\restaurantordermanagement\main.c
+	"table_functions.h"
+
+1647887898 c:\users\angel\documents\university\programming\c\restaurantordermanagement\table_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+
+1647888497 source:c:\users\angel\documents\university\programming\c\restaurantordermanagement\table_functions.c
+	"table_functions.h"
+
